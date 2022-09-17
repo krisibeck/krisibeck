@@ -12,7 +12,7 @@
     width="40" height="40"/>&nbsp;
 </div>
 <br>
-<p> 🔭 Check out my  <a href="https://www.youtube.com/channel/UCjyHaCShpPK2dnhxOm8qzYw">YouTUbe Channel!</a> I cover fundamental Python concepts in the simplest and most thorough possible way. The channel is in Bulgarian!<br>
+<p> 🔭 Check out my  <a href="https://www.youtube.com/channel/UCjyHaCShpPK2dnhxOm8qzYw">YouTube Channel!</a> I cover fundamental Python concepts in the simplest and most thorough possible way. The channel is in Bulgarian!<br>
 <br> </p>
 
 
