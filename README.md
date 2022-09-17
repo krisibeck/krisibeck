@@ -12,6 +12,9 @@
     width="40" height="40"/>&nbsp;
 </div>
 
+🔭 Check out my  <a href="https://www.youtube.com/channel/UCjyHaCShpPK2dnhxOm8qzYw">YouTUbe Channel!</a> I cover fundamental Python concepts in the simplest and most thorough possible way. The channel is in Bulgarian!
+
+
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <!--
