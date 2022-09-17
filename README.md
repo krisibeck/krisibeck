@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning:
+<p>🌱 I’m currently learning:</p>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40"/>&nbsp;
@@ -12,9 +12,10 @@
     width="40" height="40"/>&nbsp;
 </div>
 <br>
-🔭 Check out my  <a href="https://www.youtube.com/channel/UCjyHaCShpPK2dnhxOm8qzYw">YouTUbe Channel!</a> I cover fundamental Python concepts in the simplest and most thorough possible way. The channel is in Bulgarian!
+<p> 🔭 Check out my  <a href="https://www.youtube.com/channel/UCjyHaCShpPK2dnhxOm8qzYw">YouTUbe Channel!</a> I cover fundamental Python concepts in the simplest and most thorough possible way. The channel is in Bulgarian!<br>
+<br> </p>
 <br>
-
+<br>
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <!--
